@@ -28,3 +28,4 @@ This project analyzes the diabetes and heart disease datasets using multiple mac
 - requirements.yml
 
 ## YouTube Video
+https://youtu.be/Dh7yQD5UhPg
