@@ -1,0 +1,14 @@
+name: csb320_p1
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
+  - pip
+  - pip:
+      - imbalanced-learn
+      - black
+      - flake8

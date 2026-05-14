@@ -1,0 +1,1 @@
+The AI feedback helped confirm that my preprocessing and evaluation pipeline were structured correctly. I agreed with the recommendation to compare model performance more clearly between datasets. One thing the AI did not fully discuss was how class imbalance affected the diabetes dataset differently than the heart dataset.

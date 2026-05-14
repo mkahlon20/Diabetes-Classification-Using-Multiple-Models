@@ -1,0 +1,46 @@
+Diabetes Dataset
+
+Pregnancies - Integer - Number of pregnancies
+Glucose - Integer - Blood glucose level
+BloodPressure - Integer - Blood pressure measurement
+BMI - Float - Body mass index
+Outcome - Integer - Diabetes diagnosis (0 = no diabetes, 1 = diabetes)
+
+
+Heart Disease Dataset
+
+age - Integer - Age of the patient
+
+sex - Integer - Gender of the patient
+0 = female
+1 = male
+
+cp - Integer - Chest pain type
+
+trestbps - Integer - Resting blood pressure
+
+chol - Integer - Serum cholesterol level
+
+fbs - Integer - Fasting blood sugar
+1 = fasting blood sugar > 120 mg/dl
+0 = otherwise
+
+restecg - Integer - Resting electrocardiographic results
+
+thalach - Integer - Maximum heart rate achieved
+
+exang - Integer - Exercise induced angina
+1 = yes
+0 = no
+
+oldpeak - Float - ST depression induced by exercise relative to rest
+
+slope - Integer - Slope of the peak exercise ST segment
+
+ca - Integer - Number of major vessels colored by fluoroscopy
+
+thal - Integer - Thalassemia defect type
+
+target - Integer - Presence of heart disease
+0 = no heart disease
+1 = heart disease
